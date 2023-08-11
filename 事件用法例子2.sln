@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "事件用法例子2", "事件用法例子2\事件用法例子2.csproj", "{DE8E912B-6E29-48DA-AA06-B56069899477}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE8E912B-6E29-48DA-AA06-B56069899477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE8E912B-6E29-48DA-AA06-B56069899477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE8E912B-6E29-48DA-AA06-B56069899477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE8E912B-6E29-48DA-AA06-B56069899477}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EA7C2F8-C667-41F3-A922-BF7E2D69709C}
+	EndGlobalSection
+EndGlobal
